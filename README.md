@@ -6,6 +6,6 @@ The sole purpose of this repo is to help other who is/is not taking this course 
 All the code available in this repo is copied from Coursera when i personally took this course on Coursera, and modified it with comments explaining its working.
 I give full credits to Google and Coursera for all the codes that is being used in the this repo.
 
-###NOTE: One should not copy this code for the purpose of completing the course. It is only for better understanding.
+### NOTE: One should not copy this code for the purpose of completing the course. It is only for better understanding.
 
 PEACE!
