@@ -8,4 +8,7 @@ I give full credits to Google and Coursera for all the codes that is being used 
 
 ### NOTE: One should not copy this code for the purpose of completing the course. It is only for better understanding.
 
+-----------------------------------------------------------------------!!!WARNING!!!--------------------------------------------------------------------------------------------- The codes in this repo contains long ugly comments which is a bad practice. It is just there so one can understand whats going on. Your code should be self explainatory. The less unwanted comments you add, the more elegant your code looks. 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 PEACE!
